@@ -10,6 +10,6 @@ void loop()
 {
   digitalWrite(Relay1, LOW); // ส่งให้ไฟติด
   delay(1000); // ดีเลย์ 1000ms
-  digitalWrite(Relay1, HIGH; // ส่งให้ไฟดับ
+  digitalWrite(Relay1, HIGH); // ส่งให้ไฟดับ
   delay(1000); // ดีเลย์ 1000ms
 }
